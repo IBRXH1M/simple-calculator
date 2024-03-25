@@ -1,8 +1,5 @@
-**Title**
-
-```
 # Simple Calculator using Inquirer.js
-```
+
 
 **Description**
 
