@@ -3,9 +3,8 @@
 
 **Description**
 
-```
 This is a user-friendly calculator implemented using Node.js and the Inquirer.js library. It allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) through a clear interactive interface.
-```
+
 
 **Installation**
 
